@@ -25,6 +25,7 @@ Alle øvelser dokumenteres til min portfolio.
 6. **Cracking med Crackstation**
 7. **ECC – Elliptic Curve Cryptography**
 8. **Hashcat**
+9. **Crack et passwordbeskyttet zip-fil**
 
 ---
 
