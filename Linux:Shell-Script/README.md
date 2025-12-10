@@ -1,5 +1,15 @@
 # **Bash Scripting Portfolio**
 
+## 📋 Indholdsfortegnelse
+
+- [Om Projektet](#-om-projektet)
+- [Script Kategorier](#-script-kategorier)
+  - [🟢 Begynder-scripts (1-10)](#-begynder-scripts)
+  - [🟡 Øvet-scripts (11-20)](#-øvet-scripts)
+  - [🔴 Avancerede scripts (21-30)](#-avancerede-scripts-valgfrit)
+- [Installation](#-sådan-kører-du-scripts)
+
+
 ## 📌 **Om projektet**
 
 Dette repository indeholder en samling af Bash-scripts udviklet som en del af en læringsopgave med fokus på at opbygge praktiske færdigheder i scripting. Målet er at blive fortrolig med Bash, så jeg kan løse scriptingopgaver selvstændigt.
@@ -8,6 +18,7 @@ Alle scripts er testet i **Kali Linux** og dokumenteret, så hver linje er forst
 
 ***
 
+## 🏆 **Script Kategorier**
 
 ## 🟢 **Begynder-scripts**
 
