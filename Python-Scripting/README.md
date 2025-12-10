@@ -4,14 +4,14 @@ En samling af 20 praktiske Python scripts til systemadministration og sikkerhed.
 
 ## 📋 Indholdsfortegnelse
 
-- [Oversigt](#oversigt)
-- [Installation](#installation)
-- [Script Oversigt](#script-oversigt)
+- [Oversigt](#-oversigt)
+- [Installation](#-installation)
+- [Script Oversigt](#-script-oversigt)
   - [Begynder-øvelser Scripts (1-10)](#begynder-øvelser-scripts-1-10)
   - [Øvet-øvelser Scripts (11-20)](#øvet-øvelser-scripts-11-20)
-- [Brug](#brug)
-- [Krav](#krav)
-- [Sikkerhed](#sikkerhed)
+- [Brug](#-brug)
+- [Krav](#-krav)
+- [Sikkerhed](#-sikkerhed)
 
 
 ## 🎯 Oversigt
