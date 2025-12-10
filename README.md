@@ -1,4 +1,5 @@
 # Introduktion til IT-sikkerhed – Eksamensportfolio
+Ali001
 
 Dette repository indeholder min løbende portfolio og dokumentation til den skriftlige eksamen i faget "Introduktion til IT-sikkerhed". Portfolioen demonstrerer praktiske færdigheder inden for Linux-systemadministration, kryptografi, scripting og automatisering gennem en række gennemførte projekter og øvelser.
 
