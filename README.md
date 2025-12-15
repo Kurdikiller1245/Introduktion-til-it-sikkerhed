@@ -41,24 +41,6 @@ To professionelle PowerShell scripts til systemadministration:
 - **Øvet-øvelser (11-20):** Sikkerhedsauditing, netværksscanning, integritetsverifikation, SSH-audit
 - Anvendelse af biblioteker som `psutil`, `hashlib`, `socket` til praktiske sikkerhedsopgaver
 
-## 🎯 Læringsmål og Kompetencer
-
-Gennem denne portfolio har jeg opnået praktiske færdigheder inden for:
-
-### Tekniske Kompetencer
-- **Linux-systemadministration:** Kommandolinje-mesterskab, ressourceovervågning, fejlfinding
-- **Scripting og Automatisering:** Bash, PowerShell, Python til repetitive opgaver
-- **Kryptografi:** Forståelse af krypteringsalgoritmer, hash-funktioner og digitale signaturer
-- **Netværkssikkerhed:** Port scanning, forbindelsesovervågning, firewall-konfiguration
-- **Sikkerhedsauditing:** Systemhardening, rettighedsanalyse, svaghedsdetektering
-
-## 🚀 Kom i gang
-
-### Forudsætninger
-- Grundlæggende forståelse af kommandolinjen
-- Kali Linux eller lignende Linux-distribution (anbefalet)
-- PowerShell 5.1+ (Windows) eller PowerShell Core 7+ (cross-platform)
-- Python 3.8+
 
 ### Installation
 ```bash
